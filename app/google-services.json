@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1039316683061",
+    "firebase_url": "https://otpauth-94ab4.firebaseio.com",
+    "project_id": "otpauth-94ab4",
+    "storage_bucket": "otpauth-94ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039316683061:android:4b4649f661d69090",
+        "android_client_info": {
+          "package_name": "com.akshayboth.otpauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039316683061-ttplk9116fl5b5eknis9jph13hq3nsvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinjcGvMicZDX22qYjeNYofNPL79A5KAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
